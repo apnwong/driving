@@ -11,8 +11,10 @@ elif country == 'Japan':
 		print('You can drive')
 	else:
 		print('You cannot drive')
-elif country == 'Amerian':
+elif country == 'Ameria':
 	if age >= 16:
 		print('You can drive')
 	else:
 		print('You cannot drive')
+else:
+	print('Taiwan/Japan/Ameria')
